@@ -1,0 +1,32 @@
+{
+  "name": "sleeptime",
+  "version": "1.0.1",
+  "description": "Detects when the system wakes up from sleep mode and calls a callback function.",
+  "author": "Tim Rach <tim.rach91@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timrach/sleeptime.git"
+  },
+  "bugs": {
+    "url": "https://github.com/timrach/sleeptime/issues"
+  },
+  "engines": {
+    "node": ">= 0.10.29"
+  },
+  "main": "./app.js",
+  "keywords": [
+    "observer",
+    "system",
+    "sleepmode",
+    "wakeup",
+    "time"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/timrach/sleeptime#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
